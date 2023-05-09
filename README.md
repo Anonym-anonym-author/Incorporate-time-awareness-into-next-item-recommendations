@@ -2,6 +2,7 @@
 
 Hyperparameters of the models used:
 
+
 | Hyperparameter | GRU4Rec | TiSASRec |
 | ------------- | ------------- |
 | early stop | 10 | 10 |
