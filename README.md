@@ -1,1 +1,1 @@
-# time-aware-rs
+# Incorporate time awareness into next item recommendations
