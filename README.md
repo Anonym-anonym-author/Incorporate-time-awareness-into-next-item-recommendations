@@ -4,7 +4,7 @@ Hyperparameters of the models used:
 
 
 | Hyperparameter | GRU4Rec | TiSASRec |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | early stop | 10 | 10 |
 | batch size | 256 | 256 |
 | emb size | 64 | 64 |
